@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://dornatoken.secure.footprint.net/token=nva=1634417486~dirs=2~ip=0.0.0.0~data=-~token=014914bdf22e02e55f120/hls/sbkipf/2.m3u8?start=1634388451&
+https://cdn1motogpcom.akamaized.net/hls/sbkipf/3.m3u8?token=ip=128.1.172.214~st=1634476265~exp=1634504992~acl=/hls/sbkipf/*~data=LQ~hmac=dcf8b14295e5d7254631e298d7cdd3159b9c20b04fd2e7a44bd94552f6c6ca29&start=1634475309&
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://tv3.calcio01.pw/live/moto.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
