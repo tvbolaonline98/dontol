@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2653195,RESOLUTION=854x480,CODECS="avc1.4d401f,mp4a.40.2"
-live/s-1/chunks.m3u8?Czj1i9k6&Rkj2f3jk=http://www.ovostreams.com/totalsportek-brighton-vs-manchester-city-live1.php&Urj7svfj
-#EXT-X-STREAM-INF:BANDWIDTH=1347801,RESOLUTION=854x480,CODECS="avc1.77.30,mp4a.40.2"
-live/s-1_480p/chunks.m3u8?Czj1i9k6&Rkj2f3jk=http://www.ovostreams.com/totalsportek-brighton-vs-manchester-city-live1.php&Urj7svfj
+#EXTVLCOPT:http-referrer=http://cricplay2.xyz/update/sspl.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; …) Gecko/20100101 Firefox/59.0
+https://cdn.cricplay.xyz/hls/sspl.m3u8
