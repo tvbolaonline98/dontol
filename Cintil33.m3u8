@@ -2,10 +2,10 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1636144592~acl=/hls-p/ingest_6786_*/*~hmac=d8ddc9481a2e7c9e4b095d38b3cd8dcac1c03abb27e42461350a2268f626f495/hls-p/ingest_6786_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636212095~acl=/hls-p/ingest_6786_*/*~hmac=cec55cbcc1667240de55a81707d9939ac90c00f5917158b215d0aff367bbca54/hls-p/ingest_6786_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1636144593~acl=/hls-b/ingest_6786_*/*~hmac=19da09b435a5347c7f9628c5f43c57be0175663e334cdd59c0c3aaee6a47a2b8/hls-b/ingest_6786_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636212095~acl=/hls-b/ingest_6786_*/*~hmac=87daeb829864d7e9678fc8e8db6cc138e43c63d09a8a3ab5534c77cda8faaf36/hls-b/ingest_6786_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1636144592~acl=/hls-b/ingest_6786_*/*~hmac=c3ecb8ef68a170c64f277c8e7dd685e88390dee6dafe3e3910d9eae0219b2590/hls-b/ingest_6786_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636212203~acl=/hls-p/ingest_6786_*/*~hmac=986edffebf88286248c42fa8f0c69eb0d83c79b67f73b56a92a5fcf0d814f698/hls-p/ingest_6786_360p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1636144593~acl=/hls-p/ingest_6786_*/*~hmac=a47645b1bc94d3ced3830489536732deb1bb9c2d21376b5e76e2d39f542543df/hls-p/ingest_6786_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1636212204~acl=/hls-p/ingest_6786_*/*~hmac=a9262e196d42ec3809c3a76159dc723f318846b554534ef10d16b5ce229ddf58/hls-p/ingest_6786_360p/index.m3u8
