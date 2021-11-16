@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1637053222~acl=/vp9/8110_stream.mpd!/vp9/8110/*~hmac=11a986b5cabd66b9e0231de0baec8134277d867b5731cfb524942ab56defd3c4/vp9/8110_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1637083558~acl=/hls-p/ingest_6686_*/*~hmac=e67c87b0a71a34eed8e5651478d4498a72f9992e478b3faf4403d149f187ef27/hls-p/ingest_6686_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-link
+https://etslive-2-vidio-com.akamaized.net/exp=1637083557~acl=/hls-p/ingest_6686_*/*~hmac=a92ecb781b3c51774e039b8f969d43607c6ab48297bd8dc692550e83a520a433/hls-p/ingest_6686_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
 link
