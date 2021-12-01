@@ -4,6 +4,6 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://etslive-2-vidio-com.akamaized.net/exp=1638343385~acl=/hls-p/ingest_6686_*/*~hmac=68ddb554806571f1e98ab4b8c9a626b6189c13cfb4925e836e298e31b3ba1551/hls-p/ingest_6686_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1637083557~acl=/hls-p/ingest_6686_*/*~hmac=a92ecb781b3c51774e039b8f969d43607c6ab48297bd8dc692550e83a520a433/hls-p/ingest_6686_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1638343509~acl=/hls-b/ingest_6686_*/*~hmac=eb712e492cb86ec8fc99aabb610b1be153417e0c174fb6876d9b1111acfb8a26/hls-b/ingest_6686_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
 link
