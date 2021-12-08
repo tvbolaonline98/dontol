@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://etslive-2-vidio-com.akamaized.net/exp=1638969057~acl=/hls-b/ingest_6685_*/*~hmac=b7ddb694b85bf128a7e23f888a5dc6bbe2a2044ecae9ed148bfbcafc8f383152/hls-b/ingest_6685_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://play.zkshuye.cn/live/sd-1-3654893.m3u8
+https://standard-pull.tjgtktt.cn/sm/10021_428423_lud.m3u8?auth_key=1639040911-0-0-2ac4358df116135fecac8d317e4d6b26
