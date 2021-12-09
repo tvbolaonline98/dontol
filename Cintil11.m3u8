@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://etslive-2-vidio-com.akamaized.net/exp=1639057960~acl=/hls-p/ingest_6685_*/*~hmac=6f0603780f82dd57880f199546b89999eadad651cbfa5bf23ecb8f5da962e333/hls-p/ingest_6685_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1639055886~acl=/hls-b/ingest_6685_*/*~hmac=e1dcf21f1beee65bb67a09571887432658f657a3c367289d736dc4029e3ed502/hls-b/ingest_6685_720p/index.m3u
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may4/chunklist.m3u8
