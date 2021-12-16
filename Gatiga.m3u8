@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://etslive-2-vidio-com.akamaized.net/exp=1639650225~acl=/hls-p/ingest_8454_*/*~hmac=7c7a3fb9ad00ea35b8daafbd6ff71dd278c0a763341201ca933d4a5e7144ffaf/hls-p/ingest_8454_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1639656203~acl=/hls-p/ingest_8215_*/*~hmac=612ec54368929f5bca85516c3b5bb00a0efe746a87e4073888be30596ee54ef9/hls-p/ingest_8215_720p/index.m3u8
