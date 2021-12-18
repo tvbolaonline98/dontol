@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8
+https://spottonefootball.akamaized.net/hls/live/2029237/1575184_1778214/hdntl=exp=1639921606~acl=%2f*~data=hdntl~hmac=f706e1aa42a27dd685f6e00403c667d0a0a8ce968d5dd229086666089b9acfcf/1778214_4000.m3u8?cid=28387&mid=27663924&ecid=1778214&pid=5&dtid=1&ident=350808651487&content=1099958&path=spott_onefootball_europeanleagues_01
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1638562684~acl=/hls-b/ingest_6686_*/*~hmac=174d4241b9d249bd2a25fe55fc805767630e4154e4074c9a1d52fc74d6847111/hls-b/ingest_6686_480p/index.m3u8
+link
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1638519592~acl=/hls-p/ingest_6686_*/*~hmac=fe93c2bba3e1a190a0eb99602b0a7dcafaf01badb101b3f05c8dcc2ec1ce62fb/hls-p/ingest_6686_480p/index.m3u8
+link
