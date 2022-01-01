@@ -3,4 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://etslive-2-vidio-com.akamaized.net/exp=1640795438~acl=/vp9/8378_stream.mpd!/vp9/8378/*~hmac=996332f249d266fed59c7a86d5e44e11f3b00f9c9f29bfd36d7e603916e9bb76/vp9/8378_stream.mpd
+http://hls.luziedu.com/livestream/ch36/playlist.m3u8?t=1641034911&a=114.10.11.89&u=92a18f7a6b67172e32d58d2712a1ce72&k=7580ef1e37c5edfe099e55efea707d0c
