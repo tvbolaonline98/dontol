@@ -3,7 +3,7 @@
 #EXT-X-MEDIA-SEQUENCE:9860
 #EXT-X-TARGETDURATION:10
 #EXTINF:6.960,
-https://eplayer.click/loadbalancing.php?id=/cdn/premium35-9868.ts
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:10.000,
 https://eplayer.click/loadbalancing.php?id=/cdn/premium35-9869.ts
 #EXT-X-DISCONTINUITY
