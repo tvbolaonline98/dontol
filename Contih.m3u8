@@ -3,9 +3,9 @@
 #EXT-X-MEDIA-SEQUENCE:9860
 #EXT-X-TARGETDURATION:10
 #EXTINF:6.960,
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1642434366~acl=/vp9/8590_stream.mpd!/vp9/8590/*~hmac=ad64838e0bf7afaa5d872bbeea17f1f42e1dba07cb0dc9596557b5809b969ba5/vp9/8590_stream.mpd
 #EXTINF:10.000,
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1642434366~acl=/vp9/8590_stream.mpd!/vp9/8590/*~hmac=ad64838e0bf7afaa5d872bbeea17f1f42e1dba07cb0dc9596557b5809b969ba5/vp9/8590_stream.mpd
 #EXT-X-DISCONTINUITY
 #EXTINF:4.986,
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
