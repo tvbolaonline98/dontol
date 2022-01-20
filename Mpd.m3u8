@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTVLCOPT:video-filter=invert
-#EXTGRP:ExtGroup1
-#EXTINF:-1 timeshift="0" catchup-days="7" catchup-type="flussonic" tvg-id="channel1" group-title="Group1",Channel1
-#EXTVLCOPT:param2=value2
-https://etslive-2-vidio-com.akamaized.net/exp=1642434366~acl=/vp9/8590_stream.mpd!/vp9/8590/*~hmac=ad64838e0bf7afaa5d872bbeea17f1f42e1dba07cb0dc9596557b5809b969ba5/vp9/8590_stream.mpd
