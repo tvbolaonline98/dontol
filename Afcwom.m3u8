@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://europe-west-hls.mls.mycujoo.tv/esgp/ckxt40frc00f60123wz1vtlm6/480p/playlist.m3u8
+http://hls.luziedu.com/livestream/ch12/playlist.m3u8?t=1643033437&a=114.10.6.29&u=b8a79eed8803c7e6a4f875f21ff15aa0&k=9ddee8ff1f71b97317aa02df872e02d8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 link
