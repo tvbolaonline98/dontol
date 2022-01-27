@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1643297011~acl=/hls-p/ingest_6685_*/*~hmac=819a66e549f48c56d21bada3caa063943bbf201c1523c88c3d30d6dce2a245c2/hls-p/ingest_6685_480p/index.m3u8
