@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1643297011~acl=/hls-p/ingest_6685_*/*~hmac=819a66e549f48c56d21bada3caa063943bbf201c1523c88c3d30d6dce2a245c2/hls-p/ingest_6685_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1643297813~acl=/hls-p/ingest_6685_*/*~hmac=c7b945ab5b1b58ddf93ab054ffa75b5f729fb7785a0d345593edbd001d51b1f0/hls-p/ingest_6685_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1643297011~acl=/hls-b/ingest_6685_*/*~hmac=33b0f50027ff3853f252bf8288e26bff64568c306cf5f0ab2ae47233f8083a8d/hls-b/ingest_6685_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1643297812~acl=/hls-p/ingest_6685_*/*~hmac=b3e2a0c0a255ae764ffb51ee0693d6a0cedbfb003856b50f16a450b7682567f6/hls-p/ingest_6685_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 link
