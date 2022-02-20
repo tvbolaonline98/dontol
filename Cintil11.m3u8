@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1643556892~acl=/hls-b/ingest_6686_*/*~hmac=99c56dd76f9e6ebf15d780e3833944271bd91f5381fbbcf8f799c57f4e8fa842/hls-b/ingest_6686_720p/index.m3u8
+http://hls.luziedu.com/livestream/ch18/playlist.m3u8?t=1645328846&a=114.10.20.92&u=7570a9036e0f310be2ccaad35fd5ddba&k=c933760d7e0609e2ce66fe6b170574a5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1643556892~acl=/hls-p/ingest_6686_*/*~hmac=7a8ed0c0f8a837505d5321bf35fe44eb9e0877264b0f0d916ef438fba265c42a/hls-p/ingest_6686_720p/index.m3u8
+ll
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 link
