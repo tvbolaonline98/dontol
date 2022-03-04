@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://dornatoken.secure.footprint.net/token=nva=1644768834~dirs=2~ip=78.108.180.118~data=69j68nMSwWShnE0aMkahcP2vqwpfhYF5VbSwrOQlYr6lDeqDfHUzu18weCSI0Bw%252B~token=07cfc77e7200c4e84ed54/hls/ipfmix/3.m3u8?start=0&
+https://dornatoken.secure.footprint.net/token=nva=1646411351~dirs=2~ip=173.245.211.10~data=zstHJQbpDVP56zUoiYchRrTfgWW1sm330VBqBTX%252FHDpMKL3PIWZY8vxHoiRSUdVk~token=017803cca3bc7ca5ae09c/hls/ipfmix/3.m3u8?start=0&
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://dornatoken.secure.footprint.net/token=nva=1644768834~dirs=2~ip=78.108.180.118~data=69j68nMSwWShnE0aMkahcP2vqwpfhYF5VbSwrOQlYr6lDeqDfHUzu18weCSI0Bw%252B~token=07cfc77e7200c4e84ed54/hls/ipfmix/2.m3u8?start=0&
+https://dornatoken.secure.footprint.net/token=nva=1646411351~dirs=2~ip=173.245.211.10~data=zstHJQbpDVP56zUoiYchRrTfgWW1sm330VBqBTX%252FHDpMKL3PIWZY8vxHoiRSUdVk~token=017803cca3bc7ca5ae09c/hls/ipfmix/2.m3u8?start=0&
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
-https://dornatoken.secure.footprint.net/token=nva=1644768834~dirs=2~ip=78.108.180.118~data=69j68nMSwWShnE0aMkahcP2vqwpfhYF5VbSwrOQlYr6lDeqDfHUzu18weCSI0Bw%252B~token=07cfc77e7200c4e84ed54/hls/ipfmix/1.m3u8?start=0&
+https://dornatoken.secure.footprint.net/token=nva=1646411351~dirs=2~ip=173.245.211.10~data=zstHJQbpDVP56zUoiYchRrTfgWW1sm330VBqBTX%252FHDpMKL3PIWZY8vxHoiRSUdVk~token=017803cca3bc7ca5ae09c/hls/ipfmix/1.m3u8?start=0&
