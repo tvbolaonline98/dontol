@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://23.98.158.204/live/abr_s-1/live/s-1/chunks.m3u8
+https://play.brasiltvweb.com/v3/youshi/m3_kxiCuVcr9XvcEbXgX_1080p.m3u8?user_id=42166598&session_id=mJIMYOx8NAB6&app_id=com.global.brasiltvweb&auth_id=42166598_com.global.brasiltvweb&app_ver=10101&dev_limit=1&client_ip=2804:5310:50ca:ec00:7d7a:e942:ade8:1b23&main_addr=https://play.brasiltvweb.com/v3/youshi/&rst_status=0&dev_id=22234262&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&expired=1646543207&token=D06F36401184100CC05580155B1B152F&media_code=m3_kxiCuVcr9XvcEbXgX_1080p
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 http://awsc.mazystreams.xyz/live/10/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My82LzIwMjIgMToyMjowOSBBTSZoYXNoX3ZhbHVlPU1FSStyOXdFUEFPSm5qWG1lN01YZnc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc1LjE3Mi4xNDEuMTY5JnN0cm1fbGVuPTU=
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
