@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://spottonefootball.akamaized.net/hls/live/2020172/1826735_2038621/hdntl=exp=1645974399~acl=%2f*~data=hdntl~hmac=f1ba46ef60b338ee54582a7d213ea3ecd8ebed8eebc8a389efdaddb48d8ffc09/2038621_4000.m3u8?cid=28387&mid=27824312&ecid=2038621&pid=5&dtid=1&ident=907408913619&content=1263655&path=spott_onefootball_europeanleagues_12
+https://europe-west-hls.mls.mycujoo.tv/esgp/cl09a44c00ro901038odeagxh/480p/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 link
