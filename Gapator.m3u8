@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://dornatoken.secure.footprint.net/token=nva=1647678820~dirs=2~ip=0.0.0.0~data=AGtm2N%252Byvz1fScJoFJDW1%252FbNSUEfgit9jDzQfdCO%252Fd1mMCFcTH4C11Y3dfUiIDNc~token=0894fb04a2a0a27a3d2f3/hls/ipfmix/3.m3u8?start=0&
+https://dornatoken.secure.footprint.net/token=nva=1647769318~dirs=2~ip=0.0.0.0~data=FaLPvbIWVdNXDz1TfKmaFgPwpekLWlZ1W6xK0GPshPQrBr0EYTxpBy9bxzcOLnW8~token=0d5b0c40d364a5a958d08/hls/ipfmix/3.m3u8?start=0&
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=ip=0.0.0.0~st=1647650079~exp=1647678820~acl=/hls/ipfmix/*~data=QUd0bTJOJTJCeXZ6MWZTY0pvRkpEVzElMkZiTlNVRWZnaXQ5akR6UWZkQ08lMkZkMW1NQ0ZjVEg0QzExWTNkZlVpSUROYw~hmac=c42cd0bea63be2d4743e9562567e58ef699b6d9768fee33f39ef5a21773ea57a&start=0&
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=854x480
