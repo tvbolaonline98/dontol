@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://play.fbmio.com/live/stream1136878.m3u8?txSecret=5d62e694b81cfdcc06f465b322e2f6d1&txTime=6236E54D
+lkl
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch32/playlist.m3u8?t=1647768250&a=114.10.7.207&u=4da55479f608e76e12d287e014b5f596&k=6032d053ccf6faf0cae30941a11a1ad8
+http://play.fbmio.com/live/streamhd1136878.m3u8?txSecret=5230865cd767d6bbfd7258b357bb26a3&txTime=623ECFC0
