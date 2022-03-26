@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://play.diadrom.cn/live/edc7a8895f875da8.m3u8
+lklk
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://play.fbmio.com/live/stream31126.m3u8?txSecret=294e30fd5faf3fbae3c1e7a7e4e316f1&txTime=6236AA24
+http://hls.luziedu.com/livestream/ch18/playlist.m3u8?t=1648271627&a=114.10.16.72&u=f5eff33b4fca19053eece2c4a0d4f3bf&k=eb24ca03c25f819565a62b6c5b729845
