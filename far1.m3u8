@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://vsd111.mycdn.me/hls/2317983877880.m3u8/sig/9W8hjTTWC7o/expires/1648407695381/srcIp/114.10.20.76/clientType/0/srcAg/CHROME_ANDROID/mid/3533842226936/2317983877880_high/index.m3u8?p
+https://d17f1mg1q6g54e.cloudfront.net/hls/espn/chunks.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://dir41topy686d.cloudfront.net/stream/MzM3Ng==/1080p.m3u8
+http://dwpzr86d4430d.cloudfront.net/stream/MzM3Ng==/1080p.m3u8
