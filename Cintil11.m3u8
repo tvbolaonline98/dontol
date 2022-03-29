@@ -2,8 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://hls.luziedu.com/livestream/ch18/playlist.m3u8?t=1645328846&a=114.10.20.92&u=7570a9036e0f310be2ccaad35fd5ddba&k=c933760d7e0609e2ce66fe6b170574a5
+https://etslive-2-vidio-com.akamaized.net/exp=1648561148~acl=/hls-p/ingest_6685_*/*~hmac=5fa4c972f3b91be7964b1497a3701f58b95097ab710d73d07b6155dc6f180287/hls-p/ingest_6685_360p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-ll
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-link
+https://etslive-2-vidio-com.akamaized.net/exp=1648561148~acl=/hls-p/ingest_6685_*/*~hmac=5fa4c972f3b91be7964b1497a3701f58b95097ab710d73d07b6155dc6f180287/hls-p/ingest_6685_240p/index.m3u8
