@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649333862/ei/BoJOYtPsL8bE1gK2mq2AAw/ip/92.204.213.183/id/ql0soDI4q_E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC9bAGaUYQYD02ig7XM35F43V/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgdy-pNuf4UUrXLvzXqqFhV8ZexPMHNa676wEOTZvKxAACIDF70lpRzOvzNzA6kLCl-LLAgVLTFmDFs3x-sNTX0vQ-/file/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-lkl
+https://play.lanjing.live/notrans/1751528.m3u8?auth_key=1649324296-73557583-0-3698334fc4e6dcdb08ef502acd1cf201
