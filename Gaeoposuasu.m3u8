@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://hls.loola.tv/hlspush/ZJMmio-Z13zz5Q_moto.m3u8
+https://dornatoken.secure.footprint.net/token=nva=1650642314~dirs=2~ip=0.0.0.0~data=-~token=073ba484e7f3e6365af54/hls/sbkipf/3.m3u8?start=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://cdn1motogpcom.akamaized.net/hls/sbkipf/0.m3u8?token=ip=0.0.0.0~st=1649572995~exp=1649601785~acl=/hls/sbkipf/*~data=LQ~hmac=ad92c1d53d17b0905db0df098d0d6b070be2770a494858c02dc1f1435b0540b2&start=1649572895&
+lkk
