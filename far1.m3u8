@@ -1,6 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-lkl
-
-#https://d3k1ow0v5lahi0.cloudfront.net/hls/espn/chunks.m3u8
+#EXT-X-VERSION:2
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:2,
+https://hls.live.fc2.com/hls/82003128/41/playlist?session_token=dce4316008781f5721830ff26b267ee6f541e40051bab4534120fc906380effa&playlist_token=4a40d7aa805d1be506ffc7f12af16c29e1e30278b664dedb17827ef45b5344d2&playlist_second_token=226eb3e0c48bdbd2d45c9a8e3ccb9ac29ff2098f4a9e4d9dab475a759a93b477
