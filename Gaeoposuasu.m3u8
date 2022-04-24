@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dornatoken.secure.footprint.net/token=nva=1650725052~dirs=2~ip=0.0.0.0~data=-~token=09f8b3b84e6975d889eb4/hls/sbkipf/3.m3u8?start=1650696181&
+https://dornatoken.secure.footprint.net/token=nva=1650811546~dirs=2~ip=0.0.0.0~data=-~token=038bf4aa5266daf8660e7/hls/sbkipf/3.m3u8?start=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 lkk
