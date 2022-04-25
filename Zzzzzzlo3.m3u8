@@ -1,5 +1,4 @@
-#EXT-X-VERSION:5
-#EXT-X-TARGETDURATION:8
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1",KEYFORMAT="com.widevine.alpha",KEYFORMATVERSIONS="1"
-#EXTINF:8,
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://winhometv.xyz/USEE/mpd.m3u8?channel=spotv2
