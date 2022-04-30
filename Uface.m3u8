@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://play.lanjing.live/notrans/1092350.m3u8?auth_key=1651358892-34605379-0-54d57b0c60ca66b097fbf67aa0a74492
+https://play.lanjing.live/notrans/1092350.m3u8?auth_key=1651359722-35760514-0-1aa51b34dcf7d7549e5f163b71431f42
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 http://cdn5-bongakamai.xyz/live/adaptive_bong-1/live/bong-1_480p/chunks.m3u8
