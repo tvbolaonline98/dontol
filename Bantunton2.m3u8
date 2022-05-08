@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://bcovlive-a.akamaihd.net/f210a9077e364c959f45e56990e8aeef/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1651979542~exp=9007200906720533~acl=/f210a9077e364c959f45e56990e8aeef/*/profile_1/chunklist.m3u8*~hmac=a73061dc92a68d7b9f21506b64ab28b5caac76a95503aef044f165693d4f8698
+https://play.lanjing.live/notrans/1001646.m3u8?auth_key=1652004652-17730952-0-2d118f128b97fbab10ecac919944294e
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1649220054~exp=9007200903961045~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_1/chunklist.m3u8*~hmac=6a727f5dd7f985a1dd69538593663f0da447b22a7cce7caf0efba60d0a3c2fa3
