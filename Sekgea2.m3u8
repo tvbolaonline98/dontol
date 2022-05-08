@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://venus.meta-scores.com/5a19cdd627_fhd2/5a19cdd627_fhd2@720p.m3u8
+https://venus.meta-scores.com/b696cb788f/b696cb788f@720p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://rmue2hq1pcliv.vcdn.cloud/20c1ba2a5c5f7f3e8dad9e0936a8a4da/1651966765647/trd02w8/trd02w8@720p.m3u8
