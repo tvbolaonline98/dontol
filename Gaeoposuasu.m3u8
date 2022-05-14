@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 https://ipfmix.cdn6.mcr.dorna.com/cb3f500e24b7a66a66486cc14d45274ecaab9bc9cb367da8d63984cd7b4408ca/1652453097/K8JKfwwDMAx53Kein9c%2FFuXniG7p5gP1N80jLhnvXHvFSpUwaOJrC%2BlE3atyzXBn/hls/ipfmix/1.m3u8?start=0&
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1652509615~exp=9007200907250606~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_1/chunklist.m3u8*~hmac=bebf904a14202e59f38bb818c10d2a3e314ed513d342f5f55fcd045ad8f75f71
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1652511830~exp=9007200907252821~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_2/chunklist.m3u8*~hmac=5df78ed21645f18d69b1d12eeae2d4c98ad2d754e771c772d5e149e9b3f5ed5a
