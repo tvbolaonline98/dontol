@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://ipfmix.cdn6.mcr.dorna.com/cb3f500e24b7a66a66486cc14d45274ecaab9bc9cb367da8d63984cd7b4408ca/1652453097/K8JKfwwDMAx53Kein9c%2FFuXniG7p5gP1N80jLhnvXHvFSpUwaOJrC%2BlE3atyzXBn/hls/ipfmix/3.m3u8?start=0&
+https://dornatoken.secure.footprint.net/token=nva=1652543766~dirs=2~ip=0.0.0.0~data=H4Z6YoGbmxZQ4Jxk0%252BKIalln%252FPQ6GYP8qixsCgOwqkzjAqBM9u9MM%252FAD01rHZFKi~token=0603c579b0484de7a4caf/hls/ipfmix/3.m3u8?start=0&
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1652515284~exp=9007200907256275~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_1/chunklist.m3u8*~hmac=6ae7ce3581e0ec32eab0b01312b5558341712dba631479ce1898a4f4cf6950df
+lk
