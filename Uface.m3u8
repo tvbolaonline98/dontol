@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://klive.kaltura.com/s/env/cluster-1-a.live.nvp1/live/hls/p/4615093/e/1_r8sitwtm/tl/main/st/0/t/pLDDWK7KoEKjlImqM36ozg/index-s32.m3u8?__hdnea__=st=1651927666~exp=1652014066~acl=/s/env/cluster-1-a.live.nvp1/live/hls/p/4615093/e/1_r8sitwtm/tl/main/st/0/t/pLDDWK7KoEKjlImqM36ozg/index-s32.m3u8*~hmac=1d280ead8b382ec611133adbdba3c3a6016bea0d5cf452aa2a1a5a408523f609
+http://d3j3l2afbtzbe1.cloudfront.net/stream/NDMxOA==/1080p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 http://uoa5r057a.ovocloud.site/live/abr_s-3/live/s-3_480p/chunks.m3u8
