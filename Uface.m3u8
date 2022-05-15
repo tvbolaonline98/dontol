@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 http://d3j3l2afbtzbe1.cloudfront.net/stream/NDMxOA==/1080p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://gracias.cdn4-bongakamai.xyz/live/adaptive_bong-1/live/bong-1_480p/chunks.m3u8
+http://dns.clientetv.xyz:8080/live/kdZg9ZIq/ab20oDv1/1880.m3u8
