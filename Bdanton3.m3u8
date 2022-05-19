@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live-global-cdn-v02.afreecatv.com/live-stm-08/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.lATEiqpC7VLfSuY3ANy2iqLw-k1TJUmkuEhfMWn0oUBO7mJHEqbv5ANmpuIgELAkn1d8xZ6sZUD8PSxRsUAw9KJkE629HpMJnsAhi3DL-VWy0Q1UT5NhUOwBMAwHfQNX
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1652963574/ei/luSFYvWTJ4zXgAfj177QBg/ip/92.204.212.49/id/LdnjqTfvPqo.2/source/yt_live_broadcast/requiressl/yes/tx/24206504/txs/24206051%2C24206052%2C24206503%2C24206504/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC-UE768lsyIV7BA-6Nw-QZ2R/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALMuOHNgu8kNcDyZs7NknO8quPPKPzoCxmu2dxl0ZyOWAiBSE9gkJ__y-suessmHqhSkfFNVh4Rfw4ISobePGydElw%3D%3D/file/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://play.lanjing.live/notrans/1005743.m3u8?auth_key=1649912558-72701672-0-6d84b490519410deaa6f69e1e1544af9
