@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:2
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:2,
+http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/273.ts
