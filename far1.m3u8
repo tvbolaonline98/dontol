@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dt53xyqc2c7tg.cloudfront.net/hls/f1/playlist.m3u8
+http://51.79.193.109:8080/hlsok/155051dfe/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-http://hls-pull-yashwa.speedws.com/live/ff1/playlist.m3u8?wsSession=d3489edfde633df1f1c38074-165203631060006&wsIPSercert=fcb5354cb8c56e166de4e3170591a933&wsMonitor=0
+https://dt53xyqc2c7tg.cloudfront.net/hls/f1/playlist.m3u8
