@@ -3,4 +3,4 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:2,
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/273.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1653150227~acl=/hls-p/ingest_7916_*/*~hmac=d9c04d2f62584dc75a49215a17894081b573190f6cdf67749df902c100a250b1/hls-p/ingest_7916_720p/index.m3u8
