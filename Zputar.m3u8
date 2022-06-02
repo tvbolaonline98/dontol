@@ -5,4 +5,4 @@
 #EXT-X-MEDIA-TYPE:m3u8
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:10.0,
-http://dns.clientetv.xyz:8080/live/kdZg9ZIq/ab20oDv1/1880.ts
+https://dice-live-eu.akamaized.net/hls/live/2001489/217564-219418/exchange217564ckriy_217564_3000/chunklist-d.m3u8?hdntl=exp=1654280152~acl=%2f*~id=c06dff68-cdd6-4b42-93c7-c097ee78b28d~data=hdntl~hmac=d57d700d1e55e838cce4c81226ecad80f575907a241fe8c5e844cd086f3b43b3&hdnea=st=1654193740~exp=1654193780~acl=/hls/live/2001489/217564-219418/*~id=c06dff68-cdd6-4b42-93c7-c097ee78b28d~data=c06dff68-cdd6-4b42-93c7-c097ee78b28d~hmac=6bc6ba6b7b89bd240ca59f7a8b067189cf6338342349decf5d7ccc865e898d8f&opId=196&cc=MY&ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDExOyBTTS1BMzA3R04pIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDEuMC40OTUxLjYxIE1vYmlsZSBTYWZhcmkvNTM3LjM2
