@@ -3,6 +3,6 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 https://etslive-2-vidio-com.akamaized.net/exp=1654263019~acl=/hls-p/ingest_7261_*/*~hmac=d9f65fa3132312dc14a42d6049aa9beaded8e7f2bbbda41192dc1e3a8623e30c/hls-p/ingest_7261_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-l
+https://etslive-2-vidio-com.akamaized.net/exp=1654267298~acl=/hls-p/ingest_7261_*/*~hmac=a802a4e6bd7481df12e4f940d0a69576191b594a26dbb1f301ec6ab81cb26a5c/hls-p/ingest_7261_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 l
