@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://etslive-2-vidio-com.akamaized.net/exp=1654278959~acl=/hls-p/ingest_7261_*/*~hmac=a06c7da8b9aaca1789fb3ce9c1b96a3953ed8f7183f41cd17986b0088580571a/hls-p/ingest_7261_720p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://etslive-2-vidio-com.akamaized.net/exp=1654271982~acl=/hls-p/ingest_7261_*/*~hmac=97832229e531d8f706b60b6d60bea636d389b3645f319a216acc25bc121b5278/hls-p/ingest_7261_720p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+l
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
+http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/118414.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 l
