@@ -4,4 +4,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 lklk
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1655122446~acl=/hls-p/ingest_9111_*/*~hmac=810b956fbe5d9b1b20b4f7acfb451b5294309f8aa5ec7658876cf924094aa59e/hls-p/ingest_9111_1080p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1655139948~acl=/hls-p/ingest_9114_*/*~hmac=65ff8d026cabf5d7508308e2a4b94a211bcdecf20739baf02a3424f275487d42/hls-p/ingest_9114_1080p/index.m3u8
