@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://pull.bjptzh.com/live/moto/playlist.m3u8
+https://s2.strea.ru/index_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 https://sin1.contabostorage.com/a808f6dce2514fba8eeb68596724ddd1:cast/hls/0/stream.m3u8
