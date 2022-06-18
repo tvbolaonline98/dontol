@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-l
+http://gamistra.ddns.net:8554/live/xuimarcoitalian/zt6G3FrLeTCDx9eY7/9949.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 https://sin1.contabostorage.com/a808f6dce2514fba8eeb68596724ddd1:cast/hls/0/stream.m3u8
