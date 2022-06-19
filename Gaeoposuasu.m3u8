@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 https://s1.strea.ru/index_hd720/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
-https://s5.strea.ru/index_hd720/index.m3u8
+https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=ip=0.0.0.0~st=1655629094~exp=1655656121~acl=/hls/ipfmix/*~data=bFFwUFNHaEhsM3FrSnhBOVZqblVJOHNCZG9IZG1ObDBJMyUyQnY1ZEN4JTJCSHByR2pidHJSaTklMkJNRyUyRmZ5dlFKejRD~hmac=9ff2844e3005da1f3660a6fd0523c0932fee73f5465bd55470ee3535ab144734&start=0&
