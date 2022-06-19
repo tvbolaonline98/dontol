@@ -3,6 +3,8 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
 http://pull.bjptzh.com/live/ff1/playlist.m3u8?wsSession=8d88bbaa5425c7083536ef9f-165566284752578&wsIPSercert=088207753318570e0b5fe03d7bd621ff&wsMonitor=0
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://tv4.calcio02.pw/live/formula.m3u8
+l
+
+#https://tv4.calcio02.pw/live/formula.m3u8
 
 #http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/24460.m3u8
