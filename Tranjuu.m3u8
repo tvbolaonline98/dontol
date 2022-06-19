@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://cdn1motogpcom.akamaized.net/hls/ipfmix/2.m3u8?token=ip=0.0.0.0~st=1655629094~exp=1655656121~acl=/hls/ipfmix/*~data=bFFwUFNHaEhsM3FrSnhBOVZqblVJOHNCZG9IZG1ObDBJMyUyQnY1ZEN4JTJCSHByR2pidHJSaTklMkJNRyUyRmZ5dlFKejRD~hmac=9ff2844e3005da1f3660a6fd0523c0932fee73f5465bd55470ee3535ab144734&start=0&
+https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gwu0HmIIwTyCxX6utXVjZp8dpkPNM4Z8gMJVakGvbqlt)/dm/3/x6p1gw7/d/live-2.m3u8#cell=lsg1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w674711267_b744100_sleng.m3u8
