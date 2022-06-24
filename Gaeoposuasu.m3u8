@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://flipkart-a.multitvsolution.com/hls/moto/index.m3u8
+https://nos.wjv-1.neo.id/cast/hls/0/stream.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 https://s1.strea.ru/index_hd720/index.m3u8
