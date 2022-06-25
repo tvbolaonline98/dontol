@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://streamamg-infro01.akamaized.net/hls/live/2039204/0_mnjlvew2/hdntl=exp=1656220197~acl=%2f*~data=hdntl~hmac=9b6b6421afe2f60eed6cd5a2c8b6c2865c00b7f6f368c0850fd4c86044f95571/index_4.m3u8?hdnea=st=1656133779~exp=1656134379~acl=/hls/live/2039204/0_mnjlvew2/index.m3u8*~hmac=5eb56df30eb21f1f805d6ed8d8a2203c3d97607402845c84ab85a461c0691b3a
