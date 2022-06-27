@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://cdn1motogpcom.akamaized.net/hls/ipfmix/3.m3u8?token=ip=0.0.0.0~st=1656230996~exp=1656259194~acl=/hls/ipfmix/*~data=UTRKYmE2YnQyaVVMN0VLJTJGeVdaTGNHYTFjMkxVb2IyYmlrcnBxTVFRcjI4aGlZWlFZM0RHejlGeFZmd1RsbVh6~hmac=65c5609640bfcdf31b3fa7893c156fa16f3c4880ba97f9669109301bcbe0412d&start=0&
+http://lol.bz:2095/live/t11kYGn6/extuYrXr/51122.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 l
