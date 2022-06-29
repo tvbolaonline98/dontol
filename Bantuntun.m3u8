@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_384670_800.m3u8?k=b463318a6adb1ec0b1866c4698a4b7ef&t=62ba7521&m=1
+https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1656473260~exp=9007200911214251~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_1/chunklist.m3u8*~hmac=3bbe0478ef449fb10ee13a66d9d8714e476318b95f1ee091541b3003d4281ff1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 https://dno-fifajs-native-major.youku.com/fifa_jieshuo/0316btv01main_sjb480.m3u8?auth_key=1687917705-0-0-a2a7a7df58b6652c3af7a8f76ed3a4f7&title=2022%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%85%AC%E5%BC%80%E8%B5%9B6%E6%9C%8828%E6%97%A51%E5%8F%B7%E5%9C%BA%E5%9C%B0%E5%85%A8%E6%99%AF%E6%92%AD%E5%87%BA&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=EbXwGU%2F%2Ba30CATNR39l5mlMh&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=0316btv01main&rid=20000000D002B7D19AC7B2D3BDE0071F43F31EE700000000
 
