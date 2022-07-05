@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1657010802~exp=9007200911751793~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_1/chunklist.m3u8*~hmac=ef567f8ee42a3405c77534fd85537d71bf952f1ea166e6e0a1bdcdd77f8bd87e
+https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1657023776~exp=9007200911764767~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_2/chunklist.m3u8*~hmac=1702f02890e01c9637015f354fb8d04d5854d0e44a28cb5f902a5f1e7dd80440
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 https://dno-fifajs-native-major.youku.com/fifa_jieshuo/0316btv01main_sjb480.m3u8?auth_key=1688546219-0-0-6f35f791e2919e68b2a7513810d37dec&title=2022%E7%BE%BD%E6%AF%9B%E7%90%83%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A4%A7%E5%B8%88%E8%B5%9B7%E6%9C%885%E6%97%A51%E5%8F%B7%E5%9C%BA%E5%9C%B0%E5%85%A8%E6%99%AF%E6%92%AD%E5%87%BA&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=EbXwGU%2F%2Ba30CATNR39l5mlMh&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=0316btv01main&rid=20000000D002B7D19AC7B2D3BDE0071F43F31EE700000000
