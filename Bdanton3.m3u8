@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://invidious.sethforprivacy.com/api/manifest/hls_playlist/expire/1657636213/ei/FTHNYs3HEoPBgAesxJb4BQ/ip/176.9.47.66/id/mqClEn2epEk.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr2---sn-4g5lznez.c.youtube.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/486250/mh/Ds/mm/32/mn/sn-4g5lznez/ms/su/mv/m/mvi/2/pl/23/sc/yes/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1657616673/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAKoNlbrpGvcjiQ_HCR46E_sgLzsJ_cIOMWrpdFYl4FfOAiEA4zuKN1JMHNgoeH_3h-0CLytT5cKCx355mOrZr-fT89I%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,sc/lsig/AG3C_xAwRQIhANKEMVZxCBbwgSPbruk1JhPkocpR8I4t05BsRx517QZCAiB0nJkisksIGTbjLKHWKiEWymLoRZHaQZR3jb0EGV5asQ%3D%3D/playlist/index.m3u8?local=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 l
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://pl-ali.youku.com/playlist/m3u8?vid=XNTg4NTI1OTQ0MA%3D%3D&type=mp4hdv3&ups_client_netip=720a12b7&utid=EbXwGU%2F%2Ba30CATNR39l5mlMh&ccode=050D&psid=9683951de45e5efdbc9ccb24614b586a41346&duration=61&expire=18000&drm_type=1&drm_device=0&drm_default=1&dyt=0&ups_ts=1657673385&onOff=0&encr=0&ups_key=4791a055e4e5bcfaf8ea502c35173029&ckt=5
+
 #https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1656659339~exp=9007200911400330~acl=/8dbe9fecaaf3445da9dc68101293d99c/*/profile_1/chunklist.m3u8*~hmac=b3c7d0c2047876980c885944f0cf76d3f71641f163cf9a77724c2b96526898ef
