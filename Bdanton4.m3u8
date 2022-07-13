@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-l
+https://invidious.sethforprivacy.com/api/manifest/hls_playlist/expire/1657697676/ei/LCHOYr1z3OWBB5for7gN/ip/176.9.47.66/id/hLRl4OZnN0E.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr4---sn-4g5e6nss.c.youtube.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/501250/mh/rA/mm/32/mn/sn-4g5e6nss/ms/su/mv/m/mvi/4/pl/23/sc/yes/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1657676194/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAO3uJm2VxJ6iR473PnFKV9w0RhOgYvCYXebQmI-oUYwZAiEAq-8PwnisVqZo92grs_751m0XEnu3sz2Up-9PETWKfLw%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,sc/lsig/AG3C_xAwRAIgRKK3pTuSNnQK8ASluphwQe-m_FVquiP_Zi_pREKz1-4CIE1-1Ooo11-HbfLhB5KN3bq1LpFXrf8-p1MRepwK_2nP/playlist/index.m3u8?local=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708484_800.m3u8?k=1abe1e864a18c1fbe8c11ba7752d7733&t=62ce1c10
