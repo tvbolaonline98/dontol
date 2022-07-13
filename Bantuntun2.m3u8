@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://invidious.sethforprivacy.com/api/manifest/hls_playlist/expire/1657697594/ei/2iDOYo7LCpXa1wKp5q7QCw/ip/176.9.47.66/id/2Xr47UJqeXQ.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr4---sn-4g5e6nsk.c.youtube.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/501250/mh/Uf/mm/32/mn/sn-4g5e6nsk/ms/su/mv/m/mvi/4/pl/23/sc/yes/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1657676194/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIgHIVCosTN1OiW7syFdLdY5E9XEcqXVdU1APmCCJ__3gACIQDYcEiFgAPgZWZAf1S9sfzo9ZhYtLNXs0l_GJGMd7ZwDw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,sc/lsig/AG3C_xAwRgIhAOVkhWrIpYUYHFdPi-eqYJ9xb49Og94UpMphnAjL9HwxAiEAluVnH-bTWxZrjXutDFNypqWt38TBA1ZnOcTzm7vnTGs%3D/playlist/index.m3u8?local=true
+l
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1657023775~exp=9007200911764766~acl=/facbf6cdf3f647d48de51fda6e7d2d4b/*/profile_2/chunklist.m3u8*~hmac=6f14a41cee3397109842afa90e8f9fc0861fbd4679c8ef4d8c21ca176f0e2ce3
 
