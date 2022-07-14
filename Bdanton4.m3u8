@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708484_800.m3u8?k=1abe1e864a18c1fbe8c11ba7752d7733&t=62ce1c10
+https://invidious.tiekoetter.com/api/manifest/hls_playlist/expire/1657784186/ei/GnPPYva_LN-C6dsP8K-YsAY/ip/37.228.134.25/id/vS7rox0NmDY.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr1---sn-h0jeenl6.c.youtube.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/initcwndbps/31250/mh/jf/mm/32/mn/sn-h0jeenl6/ms/su/mv/m/mvi/1/pl/24/sc/yes/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1657773869/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIgCTSMTcOXKG9VbBDq2QCSSXrLt8x6ZR7H0vn_khBGl1kCIQDe_h8Xx8SJq9ipaIHmelcf1PZMLuF87GuSMbTv8fI1Xg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,sc/lsig/AG3C_xAwRQIgUqHwNNA56Zc05te6ScSsJv6I_3cmHZxqQ8BatG5QJ4YCIQDsvTm_zN5Iud0XgQ1zKXrYCZx-idIwdKM0KnapM6lcQA%3D%3D/playlist/index.m3u8?local=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-l
+https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708484_800.m3u8?k=1abe1e864a18c1fbe8c11ba7752d7733&t=62ce1c10
 
 #https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708484_800.m3u8?k=1abe1e864a18c1fbe8c11ba7752d7733&t=62ce1c10
