@@ -1,6 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
+#EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://lol.bz:2095/live/t11kYGn6/extuYrXr/51122.m3u8
+https://cloudflarestream.com/2dc36dafeebe40a38949030b8877c78c/manifest/stream_t1_r3.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 l
