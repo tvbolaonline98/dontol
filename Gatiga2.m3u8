@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3955987,AVERAGE-BANDWIDTH=3736196,RESOLUTION=1280x720,FRAME-RATE=59.940,CODECS="avc1.640029,mp4a.40.2"
-https://live-production.secureswiftcontent.com/exp=1658070569~acl=/hls-p/ingest_782_*/*~hmac=1cd5b95686974f70edfc2eea77dbc74dad5b90c53c0b75847e3cd0b1d99d7bcb/hls-p/ingest_782_720p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1658072640~acl=/hls-p/ingest_782_*/*~hmac=305237b4d6fa74e79b5dd6a65f6e9938cf80af751f52c830d743790e83d1bf7f/hls-p/ingest_782_720p/index.m3u8
