@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1657863396~exp=9007200912604387~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=d5edb76daba63289365e63bdfa9c6b39e820cd7be304078a1c42125b33cabb10
+https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1657023776~exp=9007200911764767~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_2/chunklist.m3u8*~hmac=1702f02890e01c9637015f354fb8d04d5854d0e44a28cb5f902a5f1e7dd80440
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 l
 
