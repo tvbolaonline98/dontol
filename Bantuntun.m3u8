@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://bcovlive-a.akamaihd.net/60314b1553614da58b820a19f65ff2d5/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1657023776~exp=9007200911764767~acl=/60314b1553614da58b820a19f65ff2d5/*/profile_2/chunklist.m3u8*~hmac=1702f02890e01c9637015f354fb8d04d5854d0e44a28cb5f902a5f1e7dd80440
+https://invidious.tiekoetter.com/api/manifest/hls_playlist/expire/1658216644/ei/ZAzWYprwKoa87gOL9LzADA/ip/37.228.134.25/id/r-G5fYlV14M.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr3---sn-h0jelnez.c.youtube.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/mh/Mj/mm/32/mn/sn-h0jelnez/ms/su/mv/m/mvi/3/pl/24/sc/yes/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1658197951/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIgLx8yPYvxrdsHM40L8Dd8TTm4GD4Edf2sv4vzcet6A2cCIQCKxCO4FPewnMSnyxxSZZKeMynOJ4rEiIerX0o4VIJKQw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,sc/lsig/AG3C_xAwRAIgS9PY-rUqsJNEK69cjiRpPVinPEMZ74aD96zD10pdodMCIC27eM-nxZImn24Sitne0RVPiMMRT9fmycMk9oaaG2NY/playlist/index.m3u8?local=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 l
 
