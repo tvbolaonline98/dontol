@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dno-fifajs-native-major.youku.com/fifa_jieshuo/Btv-Voice03_sjb480.m3u8?auth_key=1689244971-0-0-3e278456b65e21fbbb2c4913e89f680b&title=2022%E7%BE%BD%E6%AF%9B%E7%90%83%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%AC%E5%BC%80%E8%B5%9B7%E6%9C%8813%E6%97%A53%E5%8F%B7%E5%9C%BA%E5%9C%B0%E5%85%A8%E6%99%AF%E6%92%AD%E5%87%BA&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=EbXwGU%2F%2Ba30CATNR39l5mlMh&ccode=live05020201&cdnQuality=480p&quality=3&multi_raw_stream=Btv-Voice03&rid=200000008F6CDFF4C959A5558F7071D519591C5400000000
+https://invidious.tiekoetter.com/api/manifest/hls_playlist/expire/1658217480/ei/qA_WYvK1A_m9x_APsaeeiAc/ip/37.228.134.25/id/0KZZGwMHOJA.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr4---sn-h0jeenle.c.youtube.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/mh/wM/mm/32/mn/sn-h0jeenle/ms/su/mv/m/mvi/4/pl/24/sc/yes/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1658198678/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRAIgfB8YTjioeZVplEvgl-rCZXIDTJ0bgGZOvq5xJ7njXM0CICWNV4pMl5sD7ccbfU9xFOpHroTLnR5MwqC_4PTACAUV/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,sc/lsig/AG3C_xAwRgIhAL97YQncik9iZV-prAYtr6cs1EUVnVhb-I6SbsK4bs14AiEAhoQC8jlMq6oAf3yOfzDR_hlJbIvWGxVdGFoDic67ixs%3D/playlist/index.m3u8?local=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 l
 
