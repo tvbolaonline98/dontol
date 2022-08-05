@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://s5.strea.ru/index_480p/index.m3u8
+https://nos.jkt-1.neo.id/jkt/hls/1/stream.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
-https://sin1.contabostorage.com/e99f730d90ed4c3b86ca4c972d026f37:cast/hls/1/stream.m3u8
+https://s1.strea.ru/index_480p/index.m3u8
