@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-l
+https://etslive-2-vidio-com.akamaized.net/exp=1660314057~acl=/hls-p/ingest_6685_*/*~hmac=73a3850259a7fe06618b4f2003cc0d5180cf231b2b80536bfbc87e44fc391058/hls-p/ingest_6685_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 https://iptv.lancartech.co.id/live/eustinn3/12123456/89117.m3u8
