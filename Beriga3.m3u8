@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-http://sambel.masuk.id/new/oxygen.m3u8?ch=indosiar&toket=e2e48220247ed9697b87a7dabfa893bd7a2261b5d124ec601dc7b685dd957183&exp=1660395662
+https://etslive-2-vidio-com.akamaized.net/exp=1660928491~acl=/hls-p/ingest_9307_*/*~hmac=249a347838b1a79de388727f0a1db4771e570d3daf55a60f81a3c50ec700f291/hls-p/ingest_9307_360p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 l
