@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://s1.strea.ru/index_480p/index.m3u8
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1660890153~exp=9007200915631144~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_1/chunklist.m3u8*~hmac=8120e593be7fc9adf6d9e250d4fa113420e24e6d6fd46e3216d17cb8a8b32e1d
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 https://s1.strea.ru/index_480p/index.m3u8
