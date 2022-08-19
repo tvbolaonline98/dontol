@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://50.7.92.90/Match_Boets/mono.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1660926078~acl=/hls-b/ingest_9493_*/*~hmac=14f348ae5f7a76f26af19638af09bb5492bab2740a94a3564ed853c0b5d92bec/hls-b/ingest_9493_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 http://50.7.92.90/Match_Boets/mono.m3u8
