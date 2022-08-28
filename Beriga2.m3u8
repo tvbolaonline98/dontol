@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1661675576~acl=/hls-p/ingest_205_*/*~hmac=71a3566bcbcf777d5cc785b4160a1d86847895634b64c97aef57b8f693ae4a67/hls-p/ingest_205_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1661706485~acl=/hls-p/ingest_9309_*/*~hmac=2da8211e9b6cae4b0ba7c452792f47224924ee4695514ed6b62de59145e5d071/hls-p/ingest_9309_360p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 l
