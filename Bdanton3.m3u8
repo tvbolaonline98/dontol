@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/BTV-Dubroom02HB_sjb480.m3u8?auth_key=1693445167-0-0-e30e5e1dd8412fc5a14ce769446e8ba8
+https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1661995844~exp=9007200916736835~acl=/8dbe9fecaaf3445da9dc68101293d99c/*/profile_2/chunklist.m3u8*~hmac=59bbe6f25181f1e8be62d837dea71dee49d210874f73d9babb46599922409c82
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://live17-nlxjdhtocy.zhibo.tv/8live/s_2708483_800.m3u8?k=d3bb2216a5831a0cd5b61d6ecd8018d5&t=630ef93c
+l
 
 #https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1661136405~exp=9007200915877396~acl=/8dbe9fecaaf3445da9dc68101293d99c/*/profile_2/chunklist.m3u8*~hmac=a6e18124577714ae26820abb6bf00220e3b19d587e8f9d4f95923e3711d06888
