@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://etslive-2-vidio-com.akamaized.net/exp=1660323863~acl=/hls-p/ingest_6685_*/*~hmac=61fa049bf2ee9f13f7994ed545b47815dcb287e3b24587c3aed58df04dbc6b26/hls-p/ingest_6685_480p/index.m3u8
+https://europe-west-hls.mls.mycujoo.tv/esgp/cl6lwdops00nm0134tmaqoucc/480p/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 https://etslive-2-vidio-com.akamaized.net/exp=1660326266~acl=/hls-p/ingest_6685_*/*~hmac=00374ddfab0e23bab1518beb50de0080a7252bc4c109c68cc4b71b25ca12e203/hls-p/ingest_6685_720p/index.m3u8
