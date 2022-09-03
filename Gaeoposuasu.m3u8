@@ -1,6 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:5
+#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1662102286~exp=9007200916843277~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_2/chunklist.m3u8*~hmac=ebf0b304d1b6fa73dde1d379a22015bda6ff993c2489fc05c90bf27f087ea95b
+https://bcovlive-a.akamaihd.net/c9053e496b884f45806493074da15f6e/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1662188512~exp=9007200916929503~acl=/c9053e496b884f45806493074da15f6e/*/profile_2/chunklist.m3u8*~hmac=f123eff9060abe701b825b98e4b078a2124a9cc633f8f9554aa2a736f53afc4e
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
 https://s1.strea.ru/index_480p/index.m3u8
