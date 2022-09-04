@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8?hdnea=st=1662102285~exp=9007200916843276~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_1/chunklist.m3u8*~hmac=7858f2fc6f2aa039efb532742be38eafe9a0676c2d0fdbfde0d3218506b964e0
+https://dornatoken.secure.footprint.net/token=nva=1662302415~dirs=2~ip=0.0.0.0~data=RsvggiUCIw1IQw0h%252B3bDwf%252Bd%252Fi4o8t0pXpKD6TOTu2szapBEcRPNSKjVZPnz%252FEg4~token=026f443e722ea6afaeffb/hls/ipfmix/2.m3u8?start=0&
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/51122.m3u8
