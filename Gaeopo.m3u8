@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-https://live-ak2.vimeocdn.com/0d2435fb-290e-4280-aa42-26bad2f4a93f/hdntl=exp=1662796492~acl=%2f*~data=hdntl~hmac=d247cf48fed310a9dfbc1de9efbec0908d93b794aec09782a443c0cbd6a62bbc/chunklist_b2056000.m3u8
+https://s5.strea.ru/index_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/51122.m3u8
