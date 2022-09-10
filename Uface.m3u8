@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://etslive-2-vidio-com.akamaized.net/exp=1661531610~acl=/hls-p/ingest_7261_*/*~hmac=4c30a7fc338a8f24ed14b4949603b9fea6c945dadb32fbf3f4fc5c9aa51a72aa/hls-p/ingest_7261_480p/index.m3u8
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live11-480H.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
 http://50.7.92.90/Match_Boets/mono.m3u8
