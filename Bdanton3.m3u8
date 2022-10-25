@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://invidious.namazso.eu/api/manifest/hls_playlist/expire/1666706568/ei/KJhXY6PfCoT27gO2mr-YCw/ip/23.88.113.147/id/-QAMrZCiT2c.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr5---sn-4g5edndd.c.youtube.com/playlist_duration/30/manifest_duration/30/gcr/de/spc/yR2vp5k1dYYyzSofZevssCWZ-C8vWbE/vprv/1/playlist_type/DVR/initcwndbps/196250/mh/Bj/mm/32/mn/sn-4g5edndd/ms/su/mv/m/mvi/5/pl/27/sc/yes/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1666685092/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AOq0QJ8wRgIhANbsKHyMf2_m4vwFUwclVSktJbsrIzBr6FcW4X6sELHDAiEAiEe0A_LvLtCfGcj6fu0mdePPSdMUx4GX4ATfVIn8DYQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,sc/lsig/AG3C_xAwRQIgOy5SW5LM8CEF834GMZVHihtztMW3sLcRXOVjdM44RNACIQC3ULU6uHvCzC5Rrs89rlsBtMYJNcZGoUCzVpGOMrtPEw%3D%3D/playlist/index.m3u8?local=true
+https://dno-fifajs-native-major-hb.youku.com/fifa_jieshuo/YMQ-INTsignal3HB_sjb480.m3u8?auth_key=1698226142-0-0-3685456386836d2e6468f01175032129
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 l
 
