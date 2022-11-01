@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=854x480
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1666869338~exp=9007200921610329~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=bd9780ed4a2ccecddee45631e7747152ec3bbb85f0e7d5b23fbdd15640db7e90
+https://manifest-gcp-us-east1-vop1.cfcdn.mux.com/c3rKRFaM6XmYkgkiocmxMi9z3I401b5HnGMZV1I2A3rCNTrHGgcFX2EkQusS02MbZTmOWCNjQBJv3lPglju9pTkF81ugqUavp012imPw5BOZxA/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1667332980&live=1&resolution=1280x720&skid=default&signature=NjM2MTdiNzRfOTQzOGYwODNmOGZhNWE2YmRhMDc3Y2M1ZmE2MGFiNzQ1MmE4MTdjYjU4Njg1MDY0MGZhZjQ2YjdlN2EwOTEyNQ==&vsid=uyFbnyUZoTJyiFPdnpLdSTUCqh6wjAAVIwtlIlvukk6EIGL01ilbZHEsuIkpaco8Y7xS8yW3cjSw
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
 l
 
